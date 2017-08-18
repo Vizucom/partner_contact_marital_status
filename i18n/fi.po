@@ -1,0 +1,72 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* partner_contact_marital_status
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 10.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-18 07:56+0000\n"
+"PO-Revision-Date: 2017-08-18 07:56+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: partner_contact_marital_status
+#: model:ir.model.fields,field_description:partner_contact_marital_status.field_partner_contact_marital_status_marital_status_create_uid
+msgid "Created by"
+msgstr "Luonut"
+
+#. module: partner_contact_marital_status
+#: model:ir.model.fields,field_description:partner_contact_marital_status.field_partner_contact_marital_status_marital_status_create_date
+msgid "Created on"
+msgstr "Luotu"
+
+#. module: partner_contact_marital_status
+#: model:ir.model.fields,field_description:partner_contact_marital_status.field_partner_contact_marital_status_marital_status_display_name
+msgid "Display Name"
+msgstr "Näyttönimi"
+
+#. module: partner_contact_marital_status
+#: model:ir.model.fields,field_description:partner_contact_marital_status.field_partner_contact_marital_status_marital_status_id
+msgid "ID"
+msgstr "Tunniste (ID)"
+
+#. module: partner_contact_marital_status
+#: model:ir.model.fields,field_description:partner_contact_marital_status.field_partner_contact_marital_status_marital_status___last_update
+msgid "Last Modified on"
+msgstr "Viimeksi muokattu"
+
+#. module: partner_contact_marital_status
+#: model:ir.model.fields,field_description:partner_contact_marital_status.field_partner_contact_marital_status_marital_status_write_uid
+msgid "Last Updated by"
+msgstr "Viimeksi päivittänyt"
+
+#. module: partner_contact_marital_status
+#: model:ir.model.fields,field_description:partner_contact_marital_status.field_partner_contact_marital_status_marital_status_write_date
+msgid "Last Updated on"
+msgstr "Viimeksi päivitetty"
+
+#. module: partner_contact_marital_status
+#: model:ir.model.fields,field_description:partner_contact_marital_status.field_res_partner_marital_status_id
+msgid "Marital Status"
+msgstr "Siviilisääty"
+
+#. module: partner_contact_marital_status
+#: model:ir.model,name:partner_contact_marital_status.model_partner_contact_marital_status_marital_status
+msgid "Marital status"
+msgstr "Siviilisääty"
+
+#. module: partner_contact_marital_status
+#: model:ir.model.fields,field_description:partner_contact_marital_status.field_partner_contact_marital_status_marital_status_name
+msgid "Name"
+msgstr "Nimi"
+
+#. module: partner_contact_marital_status
+#: model:ir.model,name:partner_contact_marital_status.model_res_partner
+msgid "Partner"
+msgstr "Kumppani"
+
